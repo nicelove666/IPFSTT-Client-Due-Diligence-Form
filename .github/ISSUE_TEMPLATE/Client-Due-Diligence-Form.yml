@@ -1,6 +1,6 @@
 name: IPFSTT Client Due Diligence Form
-description: New Huo Pool Client Due Diligence
-title: "[New Huo Pool Client Due Diligence Form]: <Project Name>"
+description: IPFSTT Client Due Diligence
+title: "[IPFSTT Client Due Diligence Form]: <Project Name>"
 labels: ["DataCap", "Client"]
 assignees:
   - octocat
